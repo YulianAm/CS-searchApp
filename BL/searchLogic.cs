@@ -127,6 +127,7 @@ namespace BL
                     }
                     catch (UnauthorizedAccessException ex)
                     {
+                        //if not access to folder by admin
                         messages.Add("no access to required folder:" + ex.Message + " manage permissions and make sure you're admin");
                         addPathDB("N/A", searchTerm, root, DateTime.Now, "search term + path - no access");
                         
