@@ -1,0 +1,15 @@
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\BL.dll.config
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\BL.dll
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\BL.pdb
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\DAL.dll
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\EntityFramework.dll
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\DAL.pdb
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\DAL.dll.config
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\EntityFramework.xml
+C:\Users\yulian\source\repos\SearchApp\BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\yulian\source\repos\SearchApp\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\Users\yulian\source\repos\SearchApp\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\yulian\source\repos\SearchApp\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\yulian\source\repos\SearchApp\BL\obj\Release\BL.dll
+C:\Users\yulian\source\repos\SearchApp\BL\obj\Release\BL.pdb
