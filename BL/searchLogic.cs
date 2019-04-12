@@ -11,7 +11,7 @@ using DAL;
 namespace BL
 {
 
-  
+  //comment commit
 
 
 
@@ -61,12 +61,13 @@ namespace BL
             try
             {
                 IEnumerable<string> listfiles = Directory.EnumerateFiles(root).Select(e => e.ToLower()).
-                    Where(m => m.Contains(searchTerm.ToLower()));
+                    Where(m => m.Contains(searchTerm.ToLower() ) );
+                
                 //add paths conatining the file to lsit 'files' - per run 
 
                 foreach (var path in listfiles)
                 {
-                    var directory = Path.GetDirectoryName(path);
+                    //var directory = Path.GetDirectoryName(path);
 
                     
 
@@ -123,7 +124,7 @@ namespace BL
                 {
                     try
                     {
-                        files.AddRange(SearchFiles(subDir, searchTerm));
+                        files.AddRange( SearchFiles(subDir, searchTerm) );
                     }
                     catch (UnauthorizedAccessException ex)
                     {

@@ -10,3 +10,15 @@ C:\Users\yulian\source\repos\SearchApp\DAL\obj\Debug\DAL.csproj.CoreCompileInput
 C:\Users\yulian\source\repos\SearchApp\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\yulian\source\repos\SearchApp\DAL\obj\Debug\DAL.dll
 C:\Users\yulian\source\repos\SearchApp\DAL\obj\Debug\DAL.pdb
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\DAL.dll
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\DAL.pdb
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\obj\Debug\DAL.dll
+C:\Users\yulia\source\repos\searchApp\CS-searchApp\DAL\obj\Debug\DAL.pdb
